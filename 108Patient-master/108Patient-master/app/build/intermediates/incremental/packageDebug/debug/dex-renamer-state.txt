@@ -1,0 +1,4 @@
+#Fri Feb 28 10:54:53 IST 2020
+base.0=E\:\\ambulance\\108Patient-master\\108Patient-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+path.0=classes.dex
+renamed.0=classes.dex

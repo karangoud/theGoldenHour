@@ -1,0 +1,4 @@
+#Thu Feb 27 09:18:31 IST 2020
+base.0=E\:\\ambulance\\AmbulanceDriver-master\\AmbulanceDriver-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

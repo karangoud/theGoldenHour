@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">268782412602-bafrrbhks2d98tlbktoq65vkmpf8erii.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ambulance-6e793.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">268782412602</string>
+    <string name="google_api_key" translatable="false">AIzaSyCYPijXRjhKaby-naRd0k0puda9J1DToq4</string>
+    <string name="google_app_id" translatable="false">1:268782412602:android:a34cc2df10eced0153e603</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCYPijXRjhKaby-naRd0k0puda9J1DToq4</string>
+    <string name="google_storage_bucket" translatable="false">ambulance-6e793.appspot.com</string>
+    <string name="project_id" translatable="false">ambulance-6e793</string>
+</resources>

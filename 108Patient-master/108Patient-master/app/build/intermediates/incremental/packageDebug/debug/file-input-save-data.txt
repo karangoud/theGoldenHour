@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Feb 11 19:01:13 IST 2020
+0.baseType=DIRECTORY
+0.base=E\:\\ambulance\\108Patient-master\\108Patient-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.path=classes.dex
+0.set=DEX
+count=1
